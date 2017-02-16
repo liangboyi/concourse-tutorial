@@ -7,4 +7,4 @@ image_resource:
 
 run:
   path: echo
-  args: [hello new world]
+  args: [hello this world]
